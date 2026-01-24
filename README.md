@@ -1,5 +1,5 @@
 ### My Stats :
-![GitHub Streak](https://streak-stats.demolab.com/?user=L1agushka)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1agushka)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1agushka&show_icons=true&theme=dark)
