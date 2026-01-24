@@ -15,11 +15,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L1agushka\&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L1agushka\&show_icons=true\&theme=dark)
-
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1agushka\&layout=compact\&theme=vision-friendly-dark)
 
