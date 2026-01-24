@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1agushka&show_icons=true&theme=dark) http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={L1agushka}&theme={2077}&exclude={exclude}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1agushka&show_icons=true&theme=dark);http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={L1agushka}&theme={2077}&exclude={exclude}
