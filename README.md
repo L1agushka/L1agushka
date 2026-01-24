@@ -34,7 +34,7 @@
 
 <br/>
 
-### NSTU Hack — AI Track (CV)
+### NSTU Hack — ML Track (CV)
 
 *Nov 22, 2025 · НЭТИ-НЕКСТ — Хакатон новых решений*
 
