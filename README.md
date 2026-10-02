@@ -7,12 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/L1agushka?style=social)](https://github.com/L1agushka)
 [![Email](https://img.shields.io/badge/Email-starovojtovaleksej910%40gmail.com-0F172A?style=flat&logo=gmail)](mailto:starovojtovaleksej910@gmail.com)
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  Building reliable infrastructure, one container at a time  │
-└─────────────────────────────────────────────────────────────┘
-```
-
 </div>
 
 ---
@@ -99,14 +93,6 @@ Developed an intelligent computer vision system for classroom occupancy analysis
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Kubernetes orchestration
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud platforms (AWS, GCP)
-- Monitoring & observability (Prometheus, Grafana)
 
 ---
 
